@@ -1,7 +1,1 @@
-echo "# flutter_assignment_06" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/shahriarshafi/flutter_assignment_06.git
-git push -u origin maingit 
+![Screenshot_20230612_193813](https://github.com/shahriarshafi/flutter_assignment_06/assets/59678133/6d084961-a352-4513-9d9f-74bf2142ef26)
